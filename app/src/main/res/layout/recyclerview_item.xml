@@ -39,8 +39,8 @@ limitations under the License. -->
         android:layout_height="wrap_content"
         android:padding="16dp"
         android:src="@drawable/ic_outline_delete_forever_24"
-        app:layout_constraintTop_toTopOf="@+id/text"
-        app:layout_constraintBottom_toBottomOf="@+id/text"
+        app:layout_constraintTop_toTopOf="@+id/textView"
+        app:layout_constraintBottom_toBottomOf="@+id/textView"
         app:layout_constraintRight_toRightOf="parent"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
